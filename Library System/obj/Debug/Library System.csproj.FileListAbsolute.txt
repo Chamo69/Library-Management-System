@@ -1,0 +1,101 @@
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Library System.exe.manifest
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Library System.application
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Library System.exe
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Library System.pdb
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Base.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Controls.DataGrid.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Controls.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.DesignerSupport.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Dialogs.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Markup.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Markup.Xaml.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Metal.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.MicroCom.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.OpenGL.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Remote.Protocol.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Vulkan.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Google.Protobuf.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Krypton.Toolkit.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Material.Avalonia.DataGrid.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Material.Avalonia.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Material.Colors.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Material.Ripple.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Material.Styles.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\MaterialSkin.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\MicroCom.Runtime.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\MySql.Data.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\ReaLTaiizor.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Buffers.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Memory.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.ValueTuple.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\ZstdSharp.dll
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Base.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Controls.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Controls.DataGrid.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.DesignerSupport.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Dialogs.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Markup.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Markup.Xaml.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Metal.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.MicroCom.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.OpenGL.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Remote.Protocol.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Avalonia.Vulkan.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Google.Protobuf.pdb
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Google.Protobuf.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Krypton.Toolkit.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\MySql.Data.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\ReaLTaiizor.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Buffers.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Memory.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Chamo\source\repos\Library System\Library System\bin\Debug\System.ValueTuple.xml
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library System.exe.config
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Avalonia\Resources.Inputs.cache
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Avalonia\resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.Dashboard.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.frmLogin.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.frmBookRegister.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.frmInquiries.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.frmLoanManage.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.frmReservation.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.frmReturn.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.frmSplashScreen.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.frmUserRegister.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library System.exe.licenses
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Avalonia\Library System.exe
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Avalonia\Library System.pdb
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library System.exe.manifest
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library System.application
+C:\Users\Chamo\source\repos\Library System\Library System\obj\Debug\Library .4B5411E5.Up2Date
